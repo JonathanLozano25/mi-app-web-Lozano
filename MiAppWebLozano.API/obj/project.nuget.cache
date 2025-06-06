@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dKVTUxUehUc=",
+  "dgSpecHash": "5QjzEe0FAIc=",
   "success": true,
-  "projectFilePath": "/Users/jonathanlozano/mi-app-web-Lozano/MiAppWebLozano.API/MiAppWebLozano.API.csproj",
+  "projectFilePath": "/Users/jonathanlozano/Documents/GitHub/mi-app-web-Lozano/MiAppWebLozano.API/MiAppWebLozano.API.csproj",
   "expectedPackageFiles": [
     "/Users/jonathanlozano/.nuget/packages/microsoft.aspnetcore.openapi/8.0.16/microsoft.aspnetcore.openapi.8.0.16.nupkg.sha512",
     "/Users/jonathanlozano/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

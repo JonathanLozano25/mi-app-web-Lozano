@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jonathanlozano/mi-app-web-Lozano/MiAppWebLozano.API/MiAppWebLozano.API.csproj": {}
+    "/Users/jonathanlozano/Documents/GitHub/mi-app-web-Lozano/MiAppWebLozano.API/MiAppWebLozano.API.csproj": {}
   },
   "projects": {
-    "/Users/jonathanlozano/mi-app-web-Lozano/MiAppWebLozano.API/MiAppWebLozano.API.csproj": {
+    "/Users/jonathanlozano/Documents/GitHub/mi-app-web-Lozano/MiAppWebLozano.API/MiAppWebLozano.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jonathanlozano/mi-app-web-Lozano/MiAppWebLozano.API/MiAppWebLozano.API.csproj",
+        "projectUniqueName": "/Users/jonathanlozano/Documents/GitHub/mi-app-web-Lozano/MiAppWebLozano.API/MiAppWebLozano.API.csproj",
         "projectName": "MiAppWebLozano.API",
-        "projectPath": "/Users/jonathanlozano/mi-app-web-Lozano/MiAppWebLozano.API/MiAppWebLozano.API.csproj",
+        "projectPath": "/Users/jonathanlozano/Documents/GitHub/mi-app-web-Lozano/MiAppWebLozano.API/MiAppWebLozano.API.csproj",
         "packagesPath": "/Users/jonathanlozano/.nuget/packages/",
-        "outputPath": "/Users/jonathanlozano/mi-app-web-Lozano/MiAppWebLozano.API/obj/",
+        "outputPath": "/Users/jonathanlozano/Documents/GitHub/mi-app-web-Lozano/MiAppWebLozano.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jonathanlozano/.nuget/NuGet/NuGet.Config"
